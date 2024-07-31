@@ -14,3 +14,13 @@ Today, I began learning about HTML forms. With a foundational understanding of H
 
 **Link to work:** https://www.freecodecamp.org/RGDC_coding
 
+### R1D2 Jul 31, 2024
+
+**Today's Progress:** Finished the "Learn HTML Forms by Building a Registration Form" course and completed the "Survey Form" certification project.
+
+**Thoughts:** I dedicated about 4-6 hours to coding today. Completing the HTML forms course provided the foundation I needed, and applying this knowledge to the Survey Form project was highly rewarding.
+
+**Links to work:**
+
+Repository: https://github.com/RGDC-coding/fcc-SurveyForm
+Online Page: https://RGDC-coding.github.io/fcc-SurveyForm/
