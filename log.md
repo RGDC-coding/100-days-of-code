@@ -24,3 +24,23 @@ Today, I began learning about HTML forms. With a foundational understanding of H
 
 Repository: https://github.com/RGDC-coding/fcc-SurveyForm
 Online Page: https://RGDC-coding.github.io/fcc-SurveyForm/
+
+### R1D2 Ago 01, 2024
+
+**Today's Progress:**
+
+ Finished several freeCodeCamp courses: "Learn the CSS Box Model by Building a Rothko Painting," "Learn CSS Flexbox by Building a Photo Gallery," "Learn Typography by Building a Nutrition Label," and "Learn Accessibility by Building a Quiz."
+
+ Found and fixed a bug in the "Survey Form" project where the languages list overflowed out of the form box due to font formatting. The bug was resolved by adding font formatting to all elements (*).
+
+ Started the "Tribute Page" freeCodeCamp certification project and coded an HTML draft with all required user stories, using placeholder images and lorem ipsum for text.
+
+**Thoughts:**
+It was a challenging day due to only getting 4 hours of sleep, as my wife's goddaughter went to the hospital. Despite the fatigue, I managed to be productive and make significant progress.
+
+**Links to work:**
+
+Survey Form project:
+Repository: https://github.com/RGDC-coding/fcc-SurveyForm
+Online Page: https://RGDC-coding.github.io/fcc-SurveyForm/
+FreeCodeCamp profile: https://www.freecodecamp.org/RGDC_coding
