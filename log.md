@@ -45,3 +45,16 @@ Repository (Survey Form): https://github.com/RGDC-coding/fcc-SurveyForm
 Repository (Tribute Page): https://github.com/RGDC-coding/fcc-tributepage
 Online Page: https://RGDC-coding.github.io/fcc-SurveyForm/
 FreeCodeCamp profile: https://www.freecodecamp.org/RGDC_coding
+
+### R1D3 Ago 02, 2024
+
+**Today's Progress:**
+
+Coded for an hour.
+Completed the first 27 lessons of the freeCodeCamp course "Learn More About CSS Pseudo-Selectors by Building a Balance Sheet."
+Thoughts:
+Today was a shorter coding day, but I made steady progress in understanding CSS pseudo-selectors through the freeCodeCamp course.
+
+**Link to work:**
+
+FreeCodeCamp profile: https://www.freecodecamp.org/RGDC_coding
