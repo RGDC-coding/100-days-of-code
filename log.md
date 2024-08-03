@@ -25,7 +25,7 @@ Today, I began learning about HTML forms. With a foundational understanding of H
 Repository: https://github.com/RGDC-coding/fcc-SurveyForm
 Online Page: https://RGDC-coding.github.io/fcc-SurveyForm/
 
-### R1D2 Ago 01, 2024
+### R1D3 Ago 01, 2024
 
 **Today's Progress:**
 
@@ -46,15 +46,32 @@ Repository (Tribute Page): https://github.com/RGDC-coding/fcc-tributepage
 Online Page: https://RGDC-coding.github.io/fcc-SurveyForm/
 FreeCodeCamp profile: https://www.freecodecamp.org/RGDC_coding
 
-### R1D3 Ago 02, 2024
+### R1D4 Ago 02, 2024
 
 **Today's Progress:**
 
 Coded for an hour.
 Completed the first 27 lessons of the freeCodeCamp course "Learn More About CSS Pseudo-Selectors by Building a Balance Sheet."
-Thoughts:
+
+**Thoughts:**
 Today was a shorter coding day, but I made steady progress in understanding CSS pseudo-selectors through the freeCodeCamp course.
 
 **Link to work:**
 
 FreeCodeCamp profile: https://www.freecodecamp.org/RGDC_coding
+
+### R1D5 Ago 03, 2024
+
+**Today's Progress:**
+
+Coded for about 4 hours.
+Conducted research on Jack Churchill for the Tribute Page project.
+Completed the freeCodeCamp Tribute Page project.
+
+**Thoughts:**
+Today was productive with a mix of coding and research. Finishing the Tribute Page project was a rewarding milestone.
+
+**Links to work:**
+
+Tribute Page: https://rgdc-coding.github.io/fcc-tributepage/
+GitHub Repo: https://github.com/RGDC-coding/fcc-tributepage
