@@ -75,3 +75,24 @@ Today was productive with a mix of coding and research. Finishing the Tribute Pa
 
 Tribute Page: https://rgdc-coding.github.io/fcc-tributepage/
 GitHub Repo: https://github.com/RGDC-coding/fcc-tributepage
+
+### R1D6 Ago 04, 2024
+
+**Today's Progress:**
+
+Made small tweaks to the Tribute Page Project's styles.css.
+Created the first draft for a new project, Odin Recipes.
+Odin Recipes will be a multi-page project; today, I drafted the landing page (index.html).
+
+**Thoughts:**
+
+It was a productive day with improvements to the Tribute Page and the initiation of a new project. Excited to develop Odin Recipes further.
+
+**Links to work:**
+
+Tribute Page:
+Project: https://rgdc-coding.github.io/fcc-tributepage/
+GitHub Repo: https://github.com/RGDC-coding/fcc-tributepage
+Odin Recipes:
+Project: https://rgdc-coding.github.io/top-recipes/
+GitHub Repo: https://github.com/RGDC-coding/top-recipes
