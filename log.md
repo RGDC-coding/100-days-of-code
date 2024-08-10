@@ -96,3 +96,67 @@ GitHub Repo: https://github.com/RGDC-coding/fcc-tributepage
 Odin Recipes:
 Project: https://rgdc-coding.github.io/top-recipes/
 GitHub Repo: https://github.com/RGDC-coding/top-recipes
+
+### R1D7 Ago 05, 2024
+
+**Today's Progress:**
+
+Coded for about 1 hour.
+Completed the "Learn CSS Pseudo Selectors by Building a Balance Sheet" course on freeCodeCamp.
+
+**Thoughts:**
+
+Felt it was a slower day due to limited time and energy.
+
+**Links to work:**
+
+Link to freeCodeCamp profile: freecodecamp.org/RGDC_coding
+
+### R1D8 Ago 06, 2024
+
+**Today's Progress:**
+
+- Coded for multiple hours.
+- Completed HTML Foundations, Working with Text, and Links and Images courses on freeCodeCamp.
+- Finished "Learn Intermediate CSS by Building a Cat Painting."
+- Started the "Learn Responsive Web Design by Building a Piano" course.
+
+**Thoughts:**
+
+Productive day with significant progress across multiple topics. Felt accomplished by completing several courses and starting a new one.
+
+**Links to work:**
+
+freecodecamp.org/RGDC_coding
+
+### R1D9 Ago 07, 2024
+
+**Today's Progress:**
+
+- Coded for around 1 hour.
+- Completed the "Learn Responsive Web Design by Building a Piano" course on freeCodeCamp.
+
+**Thoughts:**
+
+It was a shorter session today, but I’m glad I managed to finish the piano project. Looking forward to more substantial progress tomorrow.
+
+**Links to work:**
+
+freecodecamp.org/RGDC_coding
+
+### R1D10 Ago 09, 2024
+
+**Today's Progress:**
+
+- Completed an interactive project featuring two animated cats.
+    - Both cats tilt their heads on hover and blink on click.
+    -Added a header and a footer to the interactive cats project.
+
+**Thoughts:**
+Excited about finishing the cat project. It’s satisfying to see the animations come to life. Adding the header and footer improved the structure.
+
+**Links to work:**
+
+codepen.io/RGDC_codepen/pen/bGPrOWv
+
+### R1D11 Ago 10, 2024
