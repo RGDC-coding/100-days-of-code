@@ -153,6 +153,7 @@ freecodecamp.org/RGDC_coding
     -Added a header and a footer to the interactive cats project.
 
 **Thoughts:**
+
 Excited about finishing the cat project. It’s satisfying to see the animations come to life. Adding the header and footer improved the structure.
 
 **Links to work:**
@@ -160,3 +161,19 @@ Excited about finishing the cat project. It’s satisfying to see the animations
 codepen.io/RGDC_codepen/pen/bGPrOWv
 
 ### R1D11 Ago 10, 2024
+
+**Today's Progress:**
+
+- Added the CodePen project "CSS - Interactive Cats" to a GitHub repo.
+- Updated the project by adding links to my Twitter and GitHub pages in the footer, ensuring they open in a new tab.
+- Conducted research on recipes to include in the "ToP Recipe" project for tomorrow's coding session.
+- Spent only 1 hour on these tasks today.
+
+**Thoughts:**
+
+Today was a lighter day, but I made good progress by finalizing the Interactive Cats project and laying the groundwork for the ToP Recipe project. Excited to dive deeper into it tomorrow.
+
+**Links to work:**
+
+github.com/RGDC-coding/css-interactivity-cats
+
