@@ -177,3 +177,18 @@ Today was a lighter day, but I made good progress by finalizing the Interactive 
 
 github.com/RGDC-coding/css-interactivity-cats
 
+### R1D12 Ago 11, 2024
+
+**Today's Progress:**
+
+- Updated the color palette and scheme on the Odin Project "Recipes" website.
+- Added a logo to enhance the visual appeal of the project.
+
+**Thoughts:**
+
+Making these design changes really improved the overall look and feel of the "Recipes" project. The new color scheme and logo add a more polished and cohesive touch.
+
+**Links to work:**
+
+Link to Project: https://rgdc-coding.github.io/top-recipes/
+GitHub Repo: https://github.com/RGDC-coding/top-recipes
