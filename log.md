@@ -192,3 +192,22 @@ Making these design changes really improved the overall look and feel of the "Re
 
 Link to Project: https://rgdc-coding.github.io/top-recipes/
 GitHub Repo: https://github.com/RGDC-coding/top-recipes
+
+### R1D13 Ago 13, 2024
+
+**Today's Progress:**
+
+- Started working on the Technical Documentation Page project for FreeCodeCamp.
+- The page will serve as a simple guide for Flexbox properties.
+- Completed the groundwork by finishing the layout for small screens (up to 748px) and medium+ screens (769px and above).
+- Created images to accompany the guide content when added.
+- Spent about 5-6 hours working on this, mainly due to difficulties with the dropdown menus. After several attempts, I got them to work but still need to adjust them to be compatible across all major browsers. The final tweaks will involve resizing the mouse-hover box and fixing the font style.
+
+**Thoughts:**
+
+Today was challenging but rewarding. The dropdown menus took more time than expected, but overcoming the obstacles was satisfying. Looking forward to adding content and refining the page tomorrow.
+
+**Links to work:**
+
+Link to Project: https://rgdc-coding.github.io/fcc-technical-documentation-page/
+GitHub Repo: https://github.com/RGDC-coding/fcc-technical-documentation-page
