@@ -211,3 +211,105 @@ Today was challenging but rewarding. The dropdown menus took more time than expe
 
 Link to Project: https://rgdc-coding.github.io/fcc-technical-documentation-page/
 GitHub Repo: https://github.com/RGDC-coding/fcc-technical-documentation-page
+
+### R1D14 Ago 14, 2024
+
+**Today's Progress:**
+
+- Added new styling to the Technical Documentation Page project:
+  - Top border on the footer.
+  - Small divider between topics.
+- Added content to the "Introduction," "Display," and "Flex-Direction" sections.
+
+**Thoughts:**
+
+The new styling elements have improved the page's organization and visual appeal. The content additions bring the project closer to completion. The refinements are making the page more polished and user-friendly.
+
+**Links to work:**
+
+- Link to Project: https://rgdc-coding.github.io/fcc-technical-documentation-page/
+- GitHub Repo: https://github.com/RGDC-coding/fcc-technical-documentation-page
+
+Certainly! Here’s the diary format for R1D15:
+
+### R1D15 Ago 15, 2024
+
+**Today's Progress:**
+
+- Added image placeholders for all website images.
+- Styled all image borders and positions within the page.
+- Added alt text for all images.
+
+**Thoughts:**
+
+Implementing the image placeholders and styling enhances the page's layout and accessibility. Adding alt text is crucial for improving accessibility and SEO. The page is becoming more refined and ready for final content updates.
+
+**Links to work:**
+
+- Link to Project: https://rgdc-coding.github.io/fcc-technical-documentation-page/
+- GitHub Repo: https://github.com/RGDC-coding/fcc-technical-documentation-page
+
+Here’s the diary format for R1D16:
+
+### R1D16 Ago 16, 2024
+
+**Today's Progress:**
+
+- Added content for all properties related to the parent (flex container) subtopics:
+  - `flex-direction`
+  - `flex-wrap`
+  - `flex-flow`
+  - `align-items`
+  - `align-content`
+  - `gap`, `row-gap`, `column-gap`
+
+**Thoughts:**
+
+With all parent properties covered, the documentation is becoming more comprehensive. Each section now provides a detailed explanation of flex container properties, enhancing the guide’s usefulness.
+
+**Links to work:**
+
+- Link to Project: https://rgdc-coding.github.io/fcc-technical-documentation-page/
+- GitHub Repo: https://github.com/RGDC-coding/fcc-technical-documentation-page
+
+Here’s the diary format for R1D17:
+
+### R1D17 Ago 17, 2024
+
+**Today's Progress:**
+
+- Finished adding content for all properties related to the children (flex items) subtopics:
+  - `order`
+  - `flex-grow`
+  - `flex-shrink`
+  - `flex-basis`
+  - `flex`
+  - `align-self`
+
+**Thoughts:**
+
+Completing the content for flex item properties rounds out the documentation. The guide is now comprehensive, covering both flex container and item properties. Next steps will involve reviewing the content and adding any missing details.
+
+**Links to work:**
+
+- Link to Project: https://rgdc-coding.github.io/fcc-technical-documentation-page/
+- GitHub Repo: https://github.com/RGDC-coding/fcc-technical-documentation-page
+
+Here’s the diary format for R1D18:
+
+### R1D18 Ago 18, 2024
+
+**Today's Progress:**
+
+- Added images to all topics.
+- Applied `font-family` to the text.
+- Fixed dropdown mouse hover to fit the new font style.
+
+**Thoughts:**
+
+Incorporating images and adjusting the font style have enhanced the visual appeal and usability of the page. The dropdown menus are now better aligned with the updated design. The project is nearing completion and looking polished.
+
+**Links to work:**
+
+- Link to Project: https://rgdc-coding.github.io/fcc-technical-documentation-page/
+- GitHub Repo: https://github.com/RGDC-coding/fcc-technical-documentation-page
